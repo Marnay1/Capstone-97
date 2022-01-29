@@ -1,0 +1,15 @@
+.container-fluid{
+    color: black
+}
+button{
+    background-color: khaki;
+}
+#msg{
+    color:greenyellow;
+}
+div{
+    background-color: lightslategray;
+}
+#message{
+    background-color: red;
+}
